@@ -1,1 +1,6 @@
 pkg-resources==0.0.0
+pyax12==0.5.dev3
+pypng==0.0.21
+pyserial==3.5
+RPi.GPIO==0.7.1
+smbus==1.1.post2
